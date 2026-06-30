@@ -1,0 +1,39 @@
+Iris Flower Classification using Scikit-learn
+
+Project Overview
+This project predicts the species of Iris flowers using Machine Learning. The famous Iris dataset is used to train and evaluate the classification model.
+
+Dataset
+- Iris Dataset (Scikit-learn)
+
+Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+Machine Learning Algorithm
+- Classification using Scikit-learn
+
+Workflow
+- Data Loading
+- Data Exploration
+- Data Preprocessing
+- Model Training
+- Model Evaluation
+- Prediction
+
+Results
+- Successfully classified Iris flowers into three species.
+- Evaluated model accuracy using Scikit-learn metrics.
+
+Skills Demonstrated
+- Machine Learning
+- Classification
+- Scikit-learn
+- Data Analysis
+- Python
+
+Author
+Nafeesath P
